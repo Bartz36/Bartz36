@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from California</h3>
 
 - 🔭 I’m currently working on [Internship Tracker](https://github.com/Bartz36/Internship_Tracker)  
-- 🤝 I’m looking for help with **Guitar Chord Detector**  
+- 🤝 I’m looking for help with [Guitar Chord Detector](https://github.com/Bartz36/Guitar-Chord-Detector)
 - 💬 Ask me about **surfing, backpacking, climbing**  
 - 📫 Reach me at **bartz3620@gmail.com**
 
