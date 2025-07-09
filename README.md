@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
-<h3 align="center">A passionate developer from California</h3>
+<h3 align="center">A passionate developer and studen from UC Santa Barbara</h3>
 
 - 🔭 I’m currently working on [Internship Tracker](https://github.com/Bartz36/Internship_Tracker)  
 - 🤝 I’m looking for help with [Guitar Chord Detector](https://github.com/Bartz36/Guitar-Chord-Detector)
